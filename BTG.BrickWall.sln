@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTG.BrickWall", "BTG.BrickWall\BTG.BrickWall.csproj", "{9B194699-CF07-42B5-8E9F-63F90E9E7152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTG.BrickWall.Tests", "BTG.BrickWall.Tests\BTG.BrickWall.Tests.csproj", "{63959DC8-FC10-4D15-8160-3547E6994CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9B194699-CF07-42B5-8E9F-63F90E9E7152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B194699-CF07-42B5-8E9F-63F90E9E7152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B194699-CF07-42B5-8E9F-63F90E9E7152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63959DC8-FC10-4D15-8160-3547E6994CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63959DC8-FC10-4D15-8160-3547E6994CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63959DC8-FC10-4D15-8160-3547E6994CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63959DC8-FC10-4D15-8160-3547E6994CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
